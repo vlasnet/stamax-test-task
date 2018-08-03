@@ -20,3 +20,6 @@ npm run build
 ## Guide
 
 Copy customizations into 'styles/custom-bootstrap.scss file.'
+
+## You can see that app on github pages:
+https://vlasnet.github.io/stamax-test-task/
